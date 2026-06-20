@@ -14,9 +14,6 @@ Hey there! I'm a **software engineer** who believes in continuous learning and g
 
 > *"Code is like humor. When you have to explain it, it's bad."* – Cory House
 
-🔭 **Currently working on:** Building full-stack applications with modern tech  
-🌱 **Learning:** New frameworks and best practices every day  
-💡 **Philosophy:** Write code that matters, learn from mistakes, iterate fast  
 ⚡ **Fun fact:** I turn coffee into code ☕→💻
 
 ---
@@ -55,6 +52,7 @@ Hey there! I'm a **software engineer** who believes in continuous learning and g
 ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![Gin](https://img.shields.io/badge/gin-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white)
+![Fiber](https://img.shields.io/badge/fiber-%2300ACD7.svg?style=for-the-badge&logo=go&logoColor=white)
 
 ### 🗄️ Databases & Cache
 
@@ -65,6 +63,8 @@ Hey there! I'm a **software engineer** who believes in continuous learning and g
 ### 🛠️ DevOps & Tools
 
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white)
+![Apache](https://img.shields.io/badge/apache-%23D22128.svg?style=for-the-badge&logo=apache&logoColor=white)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
